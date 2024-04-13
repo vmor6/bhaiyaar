@@ -1,6 +1,6 @@
 #include<bits/stdc++.h>
 using namespace std;
 int main(){
-cout<<"ccd";
+cout<<"cd";
 return 0;
 }
